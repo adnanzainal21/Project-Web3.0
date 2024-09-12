@@ -1,5 +1,5 @@
 # Project-Web3.0
-adnanzainal.me
+
 ## Introduction
 This is a code repository for the corresponding video tutorial.
 
